@@ -1,0 +1,9 @@
+{
+  "name": "Youth Soccer League",
+  "short_name": "League",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F5F7F6",
+  "theme_color": "#0E4D3B",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
